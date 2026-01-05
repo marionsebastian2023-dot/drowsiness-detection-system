@@ -77,4 +77,5 @@ python main.py
 ---
 
 ## Project Link
-(Add GitHub repository link here after upload)
+https://github.com/marionsebastian2023-dot/drowsiness-detection-system/tree/main
+
